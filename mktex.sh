@@ -2,8 +2,7 @@
 INFILE=vocabulaire.tsv
 OUTFILE=julalexique.tex
 cat $INFILE | \
-while read line
+while IFS=$'\t' read -r -a arr;
 do
-	  line=( ${line//\t/ } )
-	  echo "0: ${line[0]}, 1: ${line[1]}, all: ${line[@]}" 
+	  echo "${arr[0]}  ${arr[1]}  ${arr[2]} ${arr[3]}" 
 done
