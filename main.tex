@@ -1,5 +1,5 @@
 \documentclass[a4paper,12pt]{article}
-\usepackage{tabularx,enumitem,ragged2e}
+\usepackage{tabularx,enumitem,ragged2e,tex4ebook}
 \usepackage{fontspec}
 \setmainfont{arimo}
 \usepackage[margin=25mm,showframe]{geometry}
@@ -11,8 +11,8 @@
 \setlist[definition,1]{nosep,wide=0pt,label=\arabic*),
                         before=\begin{minipage}[t]{\hsize},
 										after =\end{minipage}\vspace{10pt}}
-\newlist{exemplefr}{itemize}{1}
-\setlist[exemplefr,1]{label=-,after=\vspace{20pt}}
+\newlist{examples}{itemize}{1}
+\setlist[examples,1]{label=-,after=\vspace{20pt}}
 
 \begin{document}
 \noindent
@@ -20,27 +20,27 @@
 		a/aw &
 \begin{definition}
 \item vous pr. 2iè pl. 
-  \begin{exemplefr}
+  \begin{examples}
   \item a bamuso nana
 
 		Votre mère est venue
   \item n k'aw ye.
 
   Je vous ai vus.
-  \end{exemplefr} 
+  \end{examples} 
 \item Second translated definition 
-  \begin{exemplefr}
+  \begin{examples}
   \item bla bla bla
 
 		This is the meaning
   \item ble ble ble 
-  \end{exemplefr}
+  \end{examples}
 \end{definition} 
 \\
 a &
 \begin{definition}
 \item il/elle pr. 3iè s.
-	\begin{exemplefr}
+	\begin{examples}
 	\item Awa be min ? a be bon kɔnɔ.
 
 		Où est Awa ? Elle est dans la maison. 
@@ -50,9 +50,29 @@ a &
 	\item i ta mobili, n m'a ye fɔlɔ.
 
 		Ta voiture, je ne l'ai pas encore vue.  
-	\end{exemplefr}
+	\end{examples}
 \end{definition}
+\\
+báara &
+\begin{definition}
+\item travail
+	\begin{examples}
+	\item a be baara kɛ.
 
+		I travaille.
+	\item a be barra la.
+
+		Il est au travail.
+	\end{examples}
+  \end{definition}
+	\begin{definition}
+	\item travailler ( au matériau )
+		\begin{examples}
+		\item a be nɛgɛ baara.
+
+			Il travaille le fer.
+		\end{examples}	
+	\end{definition}
 \end{tabularx}
 
 \end{document} 
