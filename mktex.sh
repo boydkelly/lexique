@@ -26,21 +26,33 @@ echo "\documentclass[a4paper,12pt]{article}
 cat $INFILE | \
 while IFS=$'\t' read -r -a current;
 do
-	jula="${current[0]}"; french="${current[1]}"; examplej="${current[2]}"; examplef="${current[3]}"
-	if [ "${jula}" != "${previous[0]}" ];then
+	#jula="${current[0]}"; french="${current[1]}"; examplej="${current[2]}"; examplef="${current[3]}"
+	if [ "${current[0]}" != "${previous[0]}" ];then
 		#this is a new jula word
+		jula="${current[0]}"
 		echo "${jula} &
-		\begin{definition}
-  \item ${french} 
-  \begin{examples}
-  \item ${examplej} 
+" >> $OUTFILE
+
+	  if [ "${current[1]}" != "${previous[1]}" ];then
+	  #this is a new definition
+		french="${current[1]}"
+    echo "\begin{definition}
+  \item ${french}
+" >> $OUTFILE
+
+  [[ ! -z ${current[2]} ]]
+		 then
+		echo "\begin{examples}
+  \item ${examplej}
 
 	${examplef}
 " >> $OUTFILE
-  	else if [ "${french}" = "${previous[1]}" ];then
-		#this is another example for the same definition (french)  
+		fi
+
+ 	else if [ "${french}" = "${previous[1]}" ];then
+		#this is another example for the same definition (french)
 		#we need another example
-echo "\item ${examplej} 
+echo "\item ${examplej}
 
 	${examplef}
 " >> $OUTFILE
@@ -49,4 +61,3 @@ echo "\item ${examplej}
 
 	previous=("${current[@]}")
 done
-
