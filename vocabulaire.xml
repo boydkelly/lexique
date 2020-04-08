@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<!-- xml jula vocabulary -->
+<lexique>
+<item>
+	<source language="dyu">baara</source>
+	<target language="fr">
+		<translation>
+			<definition speech="vi">travailler</definition>
+				<example>
+					<source>i be baara kɛ</source>
+					<target>Il travaille</target>
+				</example>
+				<example>
+					<source>i be baara la</source>
+					<target>Il est au travail</target>
+				</example>
+		</translation>
+		<translation>
+			<definition speech="vt">travailler</definition>
+				<example>
+					<source>a be nɛgɛ baara</source>
+					<target>il travaille le fer</target>
+				</example>
+		</translation>
+	</target>
+</item>
+<item>
+	<source language="dyu">baarakɛla</source>
+	<target language="fr">
+		<translation>
+			<definition>travailleur</definition>
+		</translation>	
+	</target>
+</item>
+</lexique> 
