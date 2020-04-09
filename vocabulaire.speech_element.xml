@@ -1,26 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?> 
 <!-- xml jula vocabulary -->
 <lexique>
-	<item>
-		<jula>baara</jula>
-		<french>
-			<translations>
-				<definition>travail</definition>
+<item>
+	<jula>baara</jula>
+	<french>
+		<translation>
+			<definition>travail</definition>
  				<hint></hint>
-				<speech>
-					<type>n</type>
-						<example>
-							<jula>i ta baara ka ɲi i ma wa ?</jula>
-							<french>Est-ce que ton travail te satisfait ?</french>
-						</example>
-						<example>
-							<jula>i ni barra</jula>
-							<french>Bonjour/Bon travail !</french>
-						</example>
-				</speech>
-			</translations>
-			<translations>
-				<definition>travailler</definition>
+			<speech>
+				<type>n</type>
+				<example>
+					<jula>i ta baara ka ɲi i ma wa ?</jula>
+					<french>Est-ce que ton travail te satisfait ?</french>
+				</example>
+				<example><jula>i ni barra</jula><french>Bonjour/Bon travail !</french> </example>
+			</speech>
+		</translation>
+		<translation>
+			<definition>travailler</definition>
 				<hint></hint>
 				<speech>
 					<type>vi</type>
@@ -40,8 +37,8 @@
 							<french>il travaille le fer</french>
 						</example>
 				</speech>
-		</translations>
-		<translations>
+		</translation>
+		<translation>
 			<definition>something else</definition>
 			<hint></hint>
 			<speech>
@@ -51,15 +48,16 @@
 					<french>other example</french>
 				</example>
 			</speech>
-		</translations>
-		</french>
-	</item>
-	<item>
-		<jula>baarakɛla</jula>
-		<french>
-			<translations>
-				<definition>travailleur</definition>
-			</translations>	
-		</french>
-	</item>
+		</translation>
+	</french>
+</item>
+<item>
+	<jula>baarakɛla</jula>
+	<french>
+		<translation>
+			<definition>travailleur</definition>
+			<hint></hint>
+			</translation>	
+	</french>
+</item>
 </lexique> 

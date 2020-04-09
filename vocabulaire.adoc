@@ -1,5 +1,33 @@
-:hardbreak:
-[cols="3,3,^2,^2,8"]
+:Author: COULIBALY Moussa, HARAGUCHI Takehiko
+:Date: 1993
+:toc:
+
+= LEXIQUE DU DIOULA
+
+[float]
+= Institute of Developing Economies
+{author}
+
+== PRÉFACE ==
+Ce lexique est inspiré du Petit Dictionnaire Dioula que C. Braconnier
+et M.J. Derive ont publié en 1978.footnote:[C. Braconnier et M. J.
+Derive. _Petit Dictionnaire Dioula._ Institut de Linguistique
+Appliquée, Abidjan. 1978.]  Comme le dictionnaire
+précédent, il voudrait être simplement un outil commode pour les
+personnes qui souhaitent pouvoir parler dioula en Côte d'Ivoire. Il
+peut être utilisé comme complément à la méthode "kó di? de l'Institut
+de Linquistique Appliquée d'Abidjan.
+
+== Remarques ==
+* Parcomodité nous avons adopté la même terminologie grammaticale que
+  celle employée dans "kó di ?".
+* Les guillemets signalent une traduction très approximative. 
+
+== Abreviations ==
+abreviations
+
+== DIOULA FRANÇAIS ==
+[grid="rows",cols="3,3,^2,^2,8"]
 |===
 |jula|français|speech|hint|examples
 |abada|jamais||
@@ -31,6 +59,7 @@ a k'a fɔ Musa ani Bakari ye. ::
 Il l'a dit à Moussa et à Bakari.
 
 |araba|mercredi|||
+|samedilɔn|samedi|||
 
 |awa|alors eh bien bon||( forme contractée de ayiwa )
 a|awa, gbaga ni kafe tɛ kele ye. ::
