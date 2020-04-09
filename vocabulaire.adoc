@@ -1,0 +1,19 @@
+:hardbreak:
+[cols="3,3,^2,^2,8"]
+|===
+|jula|français|speech|hint|examples
+|baara|travailler|vi|
+a|
+i be baara kɛ :: 
+Il travaille
+
+i be baara la :: 
+Il est au travail
+
+|||vt|
+a| a be nɛgɛ baara ::
+il travaille le fer
+
+|baarakɛla|travailleur||||
+
+|===
