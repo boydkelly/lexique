@@ -2,34 +2,49 @@
 <!-- xml jula vocabulary -->
 <lexique>
 <item>
-	<source language="dyu">baara</source>
-	<target language="fr">
+	<jula>baara</jula>
+	<french>
 		<translation>
-			<definition speech="vi">travailler</definition>
-				<example>
-					<source>i be baara kɛ</source>
-					<target>Il travaille</target>
-				</example>
-				<example>
-					<source>i be baara la</source>
-					<target>Il est au travail</target>
-				</example>
+			<definition>travailler</definition>
+				<speech>
+					<type>vi</type>
+						<hint></hint>
+						<example>
+							<jula>i be baara kɛ</jula>
+							<french>Il travaille</french>
+						</example>
+				</speech>
+				<speech>	
+				<type>vt</type>
+						<example>
+							<jula>i be baara la</jula>
+							<french>Il est au travail</french>
+						</example>
+					<hint></hint>
+						<example>
+							<jula>a be nɛgɛ baara</jula>
+							<french>il travaille le fer</french>
+						</example>
+				</speech>
 		</translation>
 		<translation>
-			<definition speech="vt">travailler</definition>
+			<definition>something else</definition>
+			<speech>
+				<type></type>
 				<example>
-					<source>a be nɛgɛ baara</source>
-					<target>il travaille le fer</target>
+					<jula>ɲɛrirali wɛrɛ</jula>
+					<french>other example</french>
 				</example>
+			</speech>
 		</translation>
-	</target>
+	</french>
 </item>
 <item>
-	<source language="dyu">baarakɛla</source>
-	<target language="fr">
+	<jula>baarakɛla</jula>
+	<french>
 		<translation>
 			<definition>travailleur</definition>
 		</translation>	
-	</target>
+	</french>
 </item>
 </lexique> 
