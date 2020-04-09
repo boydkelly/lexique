@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<!-- xml jula vocabulary -->
+<lexique>
+<item>
+	<jula>baara</jula>
+	<french>
+		<translations>
+			<definition>travail</definition>
+ 				<hint></hint>
+				<speech part="n">
+				<example>
+					<jula>i ta baara ka ɲi i ma wa ?</jula>
+					<french>Est-ce que ton travail te satisfait ?</french>
+				</example>
+				<example>
+					<jula>i ni barra</jula>
+					<french>Bonjour/Bon travail !</french>
+				</example>
+				</speech>
+		</translations>
+		<translations>
+			<definition>travailler</definition>
+				<hint></hint>
+				<speech part="vi">
+						<example>
+							<jula>i be baara kɛ</jula>
+							<french>Il travaille</french>
+						</example>
+				</speech>
+				<speech part="vt">
+						<example>
+							<jula>i be baara la</jula>
+							<french>Il est au travail</french>
+						</example>
+						<example>
+							<jula>a be nɛgɛ baara</jula>
+							<french>il travaille le fer</french>
+						</example>
+				</speech>
+		</translations>
+		<translations>
+			<definition>something else</definition>
+			<hint></hint>
+			<speech>
+				<example>
+					<jula>ɲɛrirali wɛrɛ</jula>
+					<french>other example</french>
+				</example>
+			</speech>
+		</translations>
+	</french>
+</item>
+<item>
+	<jula>baarakɛla</jula>
+	<french>
+		<translations>
+			<definition>travailleur</definition>
+			<hint></hint>
+			</translations>	
+	</french>
+</item>
+</lexique> 
