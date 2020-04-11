@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <lexique 
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://www.coastsystems.net ./vocabulaire.xsd" >
+	xsi:schemaLocation="http://www.coastsystems.net vocabulaire.xsd" >
 	<item>
-		<jula>baara</jula>
+		<jula>báara</jula>
 		<french>
 			<translations>
 				<definition>travail</definition>
@@ -429,11 +429,6 @@
 					</example>
 				</speech>
 			</translations>
-		</french>
-	</item>
-	<item>
-		<jula>bàga</jula>
-		<french>
 			<translations>
 				<definition>poison</definition>
 				<hint></hint>
@@ -448,4 +443,3 @@
 		</french>
 	</item>
 </lexique>
-

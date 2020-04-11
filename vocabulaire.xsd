@@ -9,10 +9,10 @@
   </xs:element>
   <xs:element name="item">
     <xs:complexType mixed="true">
-      <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element ref="ns1:french"/>
+      <xs:sequence minOccurs="0" maxOccurs="unbounded">
         <xs:element ref="ns1:jula"/>
-      </xs:choice>
+        <xs:element ref="ns1:french"/>
+      </xs:sequence>
     </xs:complexType>
   </xs:element>
   <xs:element name="jula" type="xs:string"/>
