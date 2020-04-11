@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
-	elementFormDefault="qualified" 
-	targetNamespace="https://www.coastsystems.net"
-	xmlns="https://www.coastsystems.net">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.coastsystems.net" xmlns="http://www.coastsystems.net">
   <xs:element name="lexique">
     <xs:complexType>
       <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="item"/>
+        <xs:element maxOccurs="unbounded" ref="ns1:item"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
   <xs:element name="item">
     <xs:complexType mixed="true">
       <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element ref="french"/>
-        <xs:element ref="jula"/>
+        <xs:element ref="ns1:french"/>
+        <xs:element ref="ns1:jula"/>
       </xs:choice>
     </xs:complexType>
   </xs:element>
@@ -22,30 +19,28 @@
   <xs:element name="french">
     <xs:complexType mixed="true">
       <xs:sequence>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="translations"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ns1:translations"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
   <xs:element name="translations">
     <xs:complexType>
       <xs:sequence>
-        <xs:element ref="definition"/>
+        <xs:element ref="ns1:definition"/>
         <xs:sequence minOccurs="0">
-          <xs:element ref="hint"/>
-          <xs:element maxOccurs="unbounded" ref="speech"/>
+          <xs:element ref="ns1:hint"/>
+          <xs:element maxOccurs="unbounded" ref="ns1:speech"/>
         </xs:sequence>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
   <xs:element name="definition" type="xs:string"/>
-  <xs:element name="hint">
-    <xs:complexType/>
-  </xs:element>
+  <xs:element name="hint" type="xs:string"/>
   <xs:element name="speech">
     <xs:complexType>
       <xs:sequence>
-        <xs:element ref="type"/>
-        <xs:element maxOccurs="unbounded" ref="example"/>
+        <xs:element ref="ns1:type"/>
+        <xs:element maxOccurs="unbounded" ref="ns1:example"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
@@ -53,8 +48,8 @@
   <xs:element name="example">
     <xs:complexType>
       <xs:sequence>
-        <xs:element ref="jula"/>
-        <xs:element ref="french"/>
+        <xs:element ref="ns1:jula"/>
+        <xs:element ref="ns1:french"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>

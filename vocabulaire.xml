@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<lexique xmlns="http://www.coastsystems.net" 
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-	xsi:schemaLocation="http://www.coastsystems.net vocabulaire.xsd" >
+<lexique 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.coastsystems.net ./vocabulaire.xsd" >
 	<item>
 		<jula>baara</jula>
 		<french>
