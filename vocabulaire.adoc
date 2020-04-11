@@ -23,8 +23,14 @@ de Linquistique Appliquée d'Abidjan.
   celle employée dans "kó di ?".
 * Les guillemets signalent une traduction très approximative. 
 
-== Abreviations ==
-abreviations
+.Abreviations
+[width="50%",cols="^m,^m",frame="topbot"]
+|====
+|pr.|pronom
+|pr. réfl.| pronom réfléchi
+|s.|singlulier
+|====
+
 
 == DIOULA FRANÇAIS ==
 [grid="rows",cols="3,3,^2,^2,8"]

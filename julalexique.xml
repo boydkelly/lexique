@@ -4,133 +4,119 @@
 	<french>
 		<translations>
 			<definition>french<definition>
-<hint>example jula<hint>
-				<speech>
-						<type>example english</type>
+			<hint>hint<hint>
+			<speech>
+						<type>speech</type>
 <item>
 	<jula>abada</jula>
 	<french>
 		<translations>
 			<definition>jamais<definition>
-<hint><hint>
-				<speech>
-						<type></type>
+			<hint><hint>
 <item>
 	<jula>adamaden</jula>
 	<french>
 		<translations>
 			<definition>être humain<definition>
-<hint><hint>
-				<speech>
-						<type></type>
+			<hint><hint>
 <item>
 	<jula>ala</jula>
 	<french>
 		<translations>
 			<definition>Dieu<definition>
-<hint><hint>
-				<speech>
-						<type></type>
+			<hint><hint>
 <item>
 	<jula>alamani</jula>
 	<french>
 		<translations>
 			<definition>amende<definition>
-<hint><hint>
+			<hint><hint>
 <item>
 	<jula>alamisa</jula>
 	<french>
 		<translations>
 			<definition>jeudi<definition>
-<hint><hint>
+			<hint><hint>
 <item>
 	<jula>an</jula>
 	<french>
 		<translations>
 			<definition>nous<definition>
-<hint>Cest notre père<hint>
-				<speech>
-						<type></type>
+			<hint><hint>
+			<speech>
+						<type>pr. 1er pl.</type>
 <item>
 	<jula>ani</jula>
 	<french>
 		<translations>
 			<definition>et<definition>
-<hint><hint>
-				<speech>
-						<type></type>
+			<hint><hint>
 <item>
 	<jula>araba</jula>
 	<french>
 		<translations>
 			<definition>mercredi<definition>
-<hint><hint>
+			<hint><hint>
 <item>
 	<jula>awa</jula>
 	<french>
 		<translations>
-			<definition>alors eh bien bon( forme contractée de ayiwa )<definition>
-<hint><hint>
-				<speech>
-						<type></type>
+			<definition>alors eh bien bon<definition>
+			<hint>( forme contractée de ayiwa )<hint>
 <item>
 	<jula>ayiwa</jula>
 	<french>
 		<translations>
 			<definition>eh bien, euh, bon<definition>
-<hint><hint>
-				<speech>
-						<type></type>
+			<hint><hint>
 <item>
 	<jula>bá</jula>
 	<french>
 		<translations>
 			<definition>fleuve<definition>
-<hint><hint>
+			<hint><hint>
 <item>
 	<jula>bà</jula>
 	<french>
 		<translations>
 			<definition>chèbre, caprin<definition>
-<hint><hint>
+			<hint><hint>
 <item>
 	<jula>báana</jula>
 	<french>
 		<translations>
 			<definition>personne riche<definition>
-<hint><hint>
+			<hint><hint>
 <item>
 	<jula>bàanabaana</jula>
 	<french>
 		<translations>
 			<definition>petit commerçant ambulant<definition>
-<hint><hint>
+			<hint><hint>
 <item>
 	<jula>báara</jula>
 	<french>
 		<translations>
 			<definition>travail<definition>
-<hint>i ta baara ka ɲi i ma wa ?<hint>
-				<speech>
-						<type>Est-ce que ton travail te satisfait ?</type>
+			<hint>hint<hint>
+			<speech>
+						<type>n</type>
 <item>
 	<jula>baaranyini</jula>
 	<french>
 		<translations>
 			<definition>portefaix, manoeuvre<definition>
-<hint><hint>
+			<hint><hint>
 <item>
 	<jula>baarakɛla</jula>
 	<french>
 		<translations>
 			<definition>travailleur<definition>
-<hint><hint>
+			<hint><hint>
 <item>
 	<jula>báasi</jula>
 	<french>
 		<translations>
 			<definition>ennuis, chose grave<definition>
-<hint><hint>
-				<speech>
-						<type></type>
+			<hint><hint>
 </lexique>

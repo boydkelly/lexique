@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<!-- xml jula vocabulary -->
-<lexique>
+<lexique xmlns="http://www.coastsystems.net" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://www.coastsystems.net vocabulaire.xsd" >
 	<item>
 		<jula>baara</jula>
 		<french>
@@ -41,17 +42,6 @@
 					</example>
 				</speech>
 			</translations>
-			<translations>
-				<definition>something else</definition>
-				<hint></hint>
-				<speech>
-					<type></type>
-					<example>
-						<jula>ɲɛrirali wɛrɛ</jula>
-						<french>other example</french>
-					</example>
-				</speech>
-			</translations>
 		</french>
 	</item>
 	<item>
@@ -63,6 +53,399 @@
 		</french>
 	</item>
 	<item>
-		<jula></jula>
+		<jula>á / áw</jula>>
+		<french>
+			<translations>
+				<definition>vous</definition>
+				<hint></hint>
+				<speech>
+					<type>pr. 2è pl.</type>
+					<example>
+						<jula>a bamuso nana.</jula>
+						<french>Votre mère est venue.</french>
+					</example>
+					<example>
+						<jula>n'aw ye.</jula>
+						<french>Je vous ai vus.</french>
+					</example>
+				</speech>
+			</translations>
+		</french>
 	</item>
-</lexique> 
+	<item>
+		<jula>à</jula>
+		<french>
+			<translations>
+				<definition>il / elle</definition>
+				<hint></hint>
+				<speech>
+					<type>pr 3è s.</type>
+					<example>
+						<jula>Awa be min ? a be bon kɔnɔ.</jula>
+						<french>Où est Awa ? Elle est dans la maison.</french>
+					</example>
+					<example>
+						<jula>Musa k'a dɔgɔcɛ bugɔ.</jula>
+						<french>Moussa a frappé son frère.</french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>ábada</jula>
+		<french>
+			<translations>
+				<definition>jamais</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<jula>a tɛ ko ɲuman kɛ abada.</jula>
+						<french>Il ne fait jamais quelque chose de bien.</french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>ádamaden</jula>
+		<french>
+			<translations>
+				<definition>être humain</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<jula>adamaden kɔni tɛ foyi ye.</jula>
+						<french>L'homme n'est rien ( il n'est que corps et âme. )</french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>ala</jula>
+		<french>
+			<translations>
+				<definition>Dieu</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<jula>ala ye kelen ye.</jula>
+						<french>Dieu est unique.</french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>álamani</jula>
+		<french>
+			<translations>
+				<definition>amende</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<jula></jula>
+						<french></french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>àlamisa</jula>
+		<french>
+			<translations>
+				<definition>jeudi</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<jula></jula>
+						<french></french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>án</jula>
+		<french>
+			<translations>
+				<definition>nous</definition>
+				<hint></hint>
+				<speech>
+					<type>pr. 1er pl.</type>
+					<example>
+						<jula>an facɛ lo.</jula>
+						<french>C'est notre père.</french>
+					</example>
+						<example>
+							<jula>kana an bugɔ</jula>
+							<french>Ne nous frappe pas.</french>
+						</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>àni</jula>
+		<french>
+			<translations>
+				<definition>et</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<jula>a ka jɛgɛ ani fornoto san.</jula>
+						<french>il a acheté du poisson et du piment.</french>
+					</example>
+					<example>
+						<jula>a k'a fɔ Musa ani Bakari ye.</jula>
+						<french>Il l'a dit à Moussa et à Bakari.</french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>áraba</jula>
+		<french>
+			<translations>
+				<definition>mercredi</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<jula>${jula}</jula>
+						<french>${french}</french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>àwa</jula>
+		<french>
+			<translations>
+				<definition>alors, eh bin, bon</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<jula>awa. baga ni kafe tɛ kelen ye.</jula>
+						<french>Eh bien, la bouillie et le café ne sont pas la même chose.</french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>àyiwa</jula>
+		<french>
+			<translations>
+				<definition>eh bien, euh, bon</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<jula>farignan k'a minɛ, ayiwa, kunasini sɔgɔma.</jula>
+						<french>Il a commencé à avoir de la fièvre, ehu, avant-hier matin.</french>
+					</example>
+					<example>
+						<jula>ayiwa, n be taga.</jula>
+						<french>Bon, je m'en vais</french>
+					</example>
+					<example>
+						<jula>ayiwa, a be mun lo kɛla ?</jula>
+						<french>Eh bien, qu'est-ce qu'il fait ?</french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bá</jula>
+		<french>
+			<translations>
+				<definition>fleuve</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<jula></jula>
+						<french></french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bà</jula>
+		<french>
+			<translations>
+				<definition>chèvre, caprin</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<jula></jula>
+						<french></french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>báana</jula>
+		<french>
+			<translations>
+				<definition>personne riche</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<jula></jula>
+						<french></french>
+					</example>
+				</speech>
+			</translations>
+			<translations>
+				<definition>doigt du milieu</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<jula></jula>
+						<french></french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bàanabaana</jula>
+		<french>
+			<translations>
+				<definition>petit commerçant ambulant</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<jula></jula>
+						<french></french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bási</jula>
+		<french>
+			<translations>
+				<definition>ennuis, chose grave</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<jula>ji ma glasi kosobɛ. baasi tɛ, dɔ di n ma.</jula>
+						<french>L'eau n'est pas très fraiche. Ça ne fait rien, donne-m'en.</french>
+					</example>
+					<example>
+						<jula>sabali! baasi tɛ!</jula>
+						<french>Pardon ! de rien !</french>
+					</example>
+					<example>
+						<jula>taji banna. o kɛra baasi ye</jula>
+						<french>L'essence est fini. C'est grave.</french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>báden</jula>
+		<french>
+			<translations>
+				<definition>frère utérin, ami intime</definition>
+				<hint>(ba = mère + den = enfant)</hint>
+				<speech>
+					<type></type>
+					<example>
+						<jula></jula>
+						<french></french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bádenya</jula>
+		<french>
+			<translations>
+				<definition>fraternité, amitié, intime</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<jula></jula>
+						<french></french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bága</jula>
+		<french>
+			<translations>
+				<definition>bouillie</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<jula></jula>
+						<french></french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bàga</jula>
+		<french>
+			<translations>
+				<definition>accuser, attaquer sans raison</definition>
+				<hint></hint>
+				<speech>
+					<type>vt</type>
+					<example>
+						<jula>jɔn kana baga i jɔn ɲɔgɔn ma.</jula>
+						<french></french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bàga</jula>
+		<french>
+			<translations>
+				<definition>poison</definition>
+				<hint></hint>
+				<speech>
+					<type>vt</type>
+					<example>
+						<jula>baga be adamaden faga.</jula>
+						<french>Le poison tue l'homme.</french>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+</lexique>
+

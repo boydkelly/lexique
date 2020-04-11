@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+	elementFormDefault="qualified" 
+	targetNamespace="https://www.coastsystems.net"
+	xmlns="https://www.coastsystems.net">
   <xs:element name="lexique">
     <xs:complexType>
       <xs:sequence>
@@ -8,11 +11,11 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="item">
-    <xs:complexType>
-      <xs:sequence>
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="french"/>
         <xs:element ref="jula"/>
-        <xs:element minOccurs="0" ref="french"/>
-      </xs:sequence>
+      </xs:choice>
     </xs:complexType>
   </xs:element>
   <xs:element name="jula" type="xs:string"/>
