@@ -1,0 +1,12 @@
+<!ELEMENT lexique (item+)>
+<!ELEMENT item (jula,french)>
+<!ELEMENT jula (#PCDATA)>
+<!ELEMENT french (translations+)>
+<!ELEMENT translations (definition+,hint,speech+)>
+<!ELEMENT definition (#PCDATA)>
+<!ELEMENT hint  (#PCDATA)>
+<!ELEMENT speech (type,example+)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT example (source,target)>
+<!ELEMENT source (#PCDATA)>
+<!ELEMENT target (#PCDATA)>

@@ -1,44 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<lexique 
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://www.coastsystems.net vocabulaire.xsd" >
+ <lexique xmlns="http://www.coastsystems.net"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.coastsystems.net vocabulaire.xsd" >
 	<item>
 		<jula>báara</jula>
 		<french>
 			<translations>
 				<definition>travail</definition>
-				<hint></hint>
+				<hint>hint</hint>
 				<speech>
 					<type>n</type>
 					<example>
-						<jula>i ta baara ka ɲi i ma wa ?</jula>
-						<french>Est-ce que ton travail te satisfait ?</french>
+						<source>i ta baara ka ɲi i ma wa ?</source>
+						<target>Est-ce que ton travail te satisfait ?</target>
 					</example>
 					<example>
-						<jula>i ni barra</jula>
-						<french>Bonjour/Bon travail !</french>
+						<source>i ni barra</source>
+						<target>Bonjour/Bon travail !</target>
 					</example>
 				</speech>
 			</translations>
 			<translations>
 				<definition>travailler</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
 					<type>vi</type>
 					<example>
-						<jula>i be baara kɛ</jula>
-						<french>Il travaille</french>
+						<source>i be baara kɛ</source>
+						<target>Il travaille</target>
 					</example>
 				</speech>
 				<speech>
 					<type>vt</type>
 					<example>
-						<jula>i be baara la</jula>
-						<french>Il est au travail</french>
+						<source>i be baara la</source>
+						<target>Il est au travail</target>
 					</example>
 					<example>
-						<jula>a be nɛgɛ baara</jula>
-						<french>il travaille le fer</french>
+						<source>a be nɛgɛ baara</source>
+						<target>il travaille le fer</target>
 					</example>
 				</speech>
 			</translations>
@@ -49,24 +49,32 @@
 		<french>
 			<translations>
 				<definition>travailleur</definition>
+				<hint/>
+				<speech>
+					<type/>
+					<example>
+						<source/>
+						<target/>
+					</example>
+				</speech>
 			</translations>
 		</french>
 	</item>
 	<item>
-		<jula>á / áw</jula>>
+		<jula>á / áw</jula>
 		<french>
 			<translations>
 				<definition>vous</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
 					<type>pr. 2è pl.</type>
 					<example>
-						<jula>a bamuso nana.</jula>
-						<french>Votre mère est venue.</french>
+						<source>a bamuso nana.</source>
+						<target>Votre mère est venue.</target>
 					</example>
 					<example>
-						<jula>n'aw ye.</jula>
-						<french>Je vous ai vus.</french>
+						<source>n'aw ye.</source>
+						<target>Je vous ai vus.</target>
 					</example>
 				</speech>
 			</translations>
@@ -77,16 +85,16 @@
 		<french>
 			<translations>
 				<definition>il / elle</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
 					<type>pr 3è s.</type>
 					<example>
-						<jula>Awa be min ? a be bon kɔnɔ.</jula>
-						<french>Où est Awa ? Elle est dans la maison.</french>
+						<source>Awa be min ? a be bon kɔnɔ.</source>
+						<target>Où est Awa ? Elle est dans la maison.</target>
 					</example>
 					<example>
-						<jula>Musa k'a dɔgɔcɛ bugɔ.</jula>
-						<french>Moussa a frappé son frère.</french>
+						<source>Musa k'a dɔgɔcɛ bugɔ.</source>
+						<target>Moussa a frappé son frère.</target>
 					</example>
 				</speech>
 			</translations>
@@ -97,12 +105,12 @@
 		<french>
 			<translations>
 				<definition>jamais</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
-					<type></type>
+					<type/>
 					<example>
-						<jula>a tɛ ko ɲuman kɛ abada.</jula>
-						<french>Il ne fait jamais quelque chose de bien.</french>
+						<source>a tɛ ko ɲuman kɛ abada.</source>
+						<target>Il ne fait jamais quelque chose de bien.</target>
 					</example>
 				</speech>
 			</translations>
@@ -113,12 +121,12 @@
 		<french>
 			<translations>
 				<definition>être humain</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
-					<type></type>
+					<type/>
 					<example>
-						<jula>adamaden kɔni tɛ foyi ye.</jula>
-						<french>L'homme n'est rien ( il n'est que corps et âme. )</french>
+						<source>adamaden kɔni tɛ foyi ye.</source>
+						<target>L'homme n'est rien ( il n'est que corps et âme. )</target>
 					</example>
 				</speech>
 			</translations>
@@ -129,12 +137,12 @@
 		<french>
 			<translations>
 				<definition>Dieu</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
-					<type></type>
+					<type/>
 					<example>
-						<jula>ala ye kelen ye.</jula>
-						<french>Dieu est unique.</french>
+						<source>ala ye kelen ye.</source>
+						<target>Dieu est unique.</target>
 					</example>
 				</speech>
 			</translations>
@@ -145,12 +153,12 @@
 		<french>
 			<translations>
 				<definition>amende</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
-					<type></type>
+					<type/>
 					<example>
-						<jula></jula>
-						<french></french>
+						<source/>
+						<target/>
 					</example>
 				</speech>
 			</translations>
@@ -161,12 +169,12 @@
 		<french>
 			<translations>
 				<definition>jeudi</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
-					<type></type>
+					<type/>
 					<example>
-						<jula></jula>
-						<french></french>
+						<source/>
+						<target/>
 					</example>
 				</speech>
 			</translations>
@@ -177,17 +185,17 @@
 		<french>
 			<translations>
 				<definition>nous</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
 					<type>pr. 1er pl.</type>
 					<example>
-						<jula>an facɛ lo.</jula>
-						<french>C'est notre père.</french>
+						<source>an facɛ lo.</source>
+						<target>C'est notre père.</target>
 					</example>
-						<example>
-							<jula>kana an bugɔ</jula>
-							<french>Ne nous frappe pas.</french>
-						</example>
+					<example>
+						<source>kana an bugɔ</source>
+						<target>Ne nous frappe pas.</target>
+					</example>
 				</speech>
 			</translations>
 		</french>
@@ -197,16 +205,16 @@
 		<french>
 			<translations>
 				<definition>et</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
-					<type></type>
+					<type/>
 					<example>
-						<jula>a ka jɛgɛ ani fornoto san.</jula>
-						<french>il a acheté du poisson et du piment.</french>
+						<source>a ka jɛgɛ ani fornoto san.</source>
+						<target>il a acheté du poisson et du piment.</target>
 					</example>
 					<example>
-						<jula>a k'a fɔ Musa ani Bakari ye.</jula>
-						<french>Il l'a dit à Moussa et à Bakari.</french>
+						<source>a k'a fɔ Musa ani Bakari ye.</source>
+						<target>Il l'a dit à Moussa et à Bakari.</target>
 					</example>
 				</speech>
 			</translations>
@@ -217,12 +225,12 @@
 		<french>
 			<translations>
 				<definition>mercredi</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
-					<type></type>
+					<type/>
 					<example>
-						<jula>${jula}</jula>
-						<french>${french}</french>
+						<source>${jula}</source>
+						<target>${french}</target>
 					</example>
 				</speech>
 			</translations>
@@ -233,12 +241,12 @@
 		<french>
 			<translations>
 				<definition>alors, eh bin, bon</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
-					<type></type>
+					<type/>
 					<example>
-						<jula>awa. baga ni kafe tɛ kelen ye.</jula>
-						<french>Eh bien, la bouillie et le café ne sont pas la même chose.</french>
+						<source>awa. baga ni kafe tɛ kelen ye.</source>
+						<target>Eh bien, la bouillie et le café ne sont pas la même chose.</target>
 					</example>
 				</speech>
 			</translations>
@@ -249,20 +257,20 @@
 		<french>
 			<translations>
 				<definition>eh bien, euh, bon</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
-					<type></type>
+					<type/>
 					<example>
-						<jula>farignan k'a minɛ, ayiwa, kunasini sɔgɔma.</jula>
-						<french>Il a commencé à avoir de la fièvre, ehu, avant-hier matin.</french>
+						<source>farignan k'a minɛ, ayiwa, kunasini sɔgɔma.</source>
+						<target>Il a commencé à avoir de la fièvre, ehu, avant-hier matin.</target>
 					</example>
 					<example>
-						<jula>ayiwa, n be taga.</jula>
-						<french>Bon, je m'en vais</french>
+						<source>ayiwa, n be taga.</source>
+						<target>Bon, je m'en vais</target>
 					</example>
 					<example>
-						<jula>ayiwa, a be mun lo kɛla ?</jula>
-						<french>Eh bien, qu'est-ce qu'il fait ?</french>
+						<source>ayiwa, a be mun lo kɛla ?</source>
+						<target>Eh bien, qu'est-ce qu'il fait ?</target>
 					</example>
 				</speech>
 			</translations>
@@ -273,12 +281,12 @@
 		<french>
 			<translations>
 				<definition>fleuve</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
-					<type></type>
+					<type/>
 					<example>
-						<jula></jula>
-						<french></french>
+						<source/>
+						<target/>
 					</example>
 				</speech>
 			</translations>
@@ -289,12 +297,12 @@
 		<french>
 			<translations>
 				<definition>chèvre, caprin</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
-					<type></type>
+					<type/>
 					<example>
-						<jula></jula>
-						<french></french>
+						<source/>
+						<target/>
 					</example>
 				</speech>
 			</translations>
@@ -305,23 +313,23 @@
 		<french>
 			<translations>
 				<definition>personne riche</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
-					<type></type>
+					<type/>
 					<example>
-						<jula></jula>
-						<french></french>
+						<source/>
+						<target/>
 					</example>
 				</speech>
 			</translations>
 			<translations>
 				<definition>doigt du milieu</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
-					<type></type>
+					<type/>
 					<example>
-						<jula></jula>
-						<french></french>
+						<source/>
+						<target/>
 					</example>
 				</speech>
 			</translations>
@@ -332,12 +340,12 @@
 		<french>
 			<translations>
 				<definition>petit commerçant ambulant</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
-					<type></type>
+					<type/>
 					<example>
-						<jula></jula>
-						<french></french>
+						<source/>
+						<target/>
 					</example>
 				</speech>
 			</translations>
@@ -348,20 +356,20 @@
 		<french>
 			<translations>
 				<definition>ennuis, chose grave</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
-					<type></type>
+					<type/>
 					<example>
-						<jula>ji ma glasi kosobɛ. baasi tɛ, dɔ di n ma.</jula>
-						<french>L'eau n'est pas très fraiche. Ça ne fait rien, donne-m'en.</french>
+						<source>ji ma glasi kosobɛ. baasi tɛ, dɔ di n ma.</source>
+						<target>L'eau n'est pas très fraiche. Ça ne fait rien, donne-m'en.</target>
 					</example>
 					<example>
-						<jula>sabali! baasi tɛ!</jula>
-						<french>Pardon ! de rien !</french>
+						<source>sabali! baasi tɛ!</source>
+						<target>Pardon ! de rien !</target>
 					</example>
 					<example>
-						<jula>taji banna. o kɛra baasi ye</jula>
-						<french>L'essence est fini. C'est grave.</french>
+						<source>taji banna. o kɛra baasi ye</source>
+						<target>L'essence est fini. C'est grave.</target>
 					</example>
 				</speech>
 			</translations>
@@ -374,10 +382,10 @@
 				<definition>frère utérin, ami intime</definition>
 				<hint>(ba = mère + den = enfant)</hint>
 				<speech>
-					<type></type>
+					<type/>
 					<example>
-						<jula></jula>
-						<french></french>
+						<source/>
+						<target/>
 					</example>
 				</speech>
 			</translations>
@@ -388,12 +396,12 @@
 		<french>
 			<translations>
 				<definition>fraternité, amitié, intime</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
-					<type></type>
+					<type/>
 					<example>
-						<jula></jula>
-						<french></french>
+						<source/>
+						<target/>
 					</example>
 				</speech>
 			</translations>
@@ -404,12 +412,12 @@
 		<french>
 			<translations>
 				<definition>bouillie</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
-					<type></type>
+					<type/>
 					<example>
-						<jula></jula>
-						<french></french>
+						<source/>
+						<target/>
 					</example>
 				</speech>
 			</translations>
@@ -420,23 +428,23 @@
 		<french>
 			<translations>
 				<definition>accuser, attaquer sans raison</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
 					<type>vt</type>
 					<example>
-						<jula>jɔn kana baga i jɔn ɲɔgɔn ma.</jula>
-						<french></french>
+						<source>jɔn kana baga i jɔn ɲɔgɔn ma.</source>
+						<target/>
 					</example>
 				</speech>
 			</translations>
 			<translations>
 				<definition>poison</definition>
-				<hint></hint>
+				<hint/>
 				<speech>
 					<type>vt</type>
 					<example>
-						<jula>baga be adamaden faga.</jula>
-						<french>Le poison tue l'homme.</french>
+						<source>baga be adamaden faga.</source>
+						<target>Le poison tue l'homme.</target>
 					</example>
 				</speech>
 			</translations>

@@ -3,15 +3,15 @@
   <xs:element name="lexique">
     <xs:complexType>
       <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="ns1:item"/>
+        <xs:element maxOccurs="unbounded" ref="item"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
   <xs:element name="item">
     <xs:complexType mixed="true">
       <xs:sequence minOccurs="0" maxOccurs="unbounded">
-        <xs:element ref="ns1:jula"/>
-        <xs:element ref="ns1:french"/>
+        <xs:element ref="jula"/>
+        <xs:element ref="french"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
@@ -19,17 +19,17 @@
   <xs:element name="french">
     <xs:complexType mixed="true">
       <xs:sequence>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ns1:translations"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="translations"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
   <xs:element name="translations">
     <xs:complexType>
       <xs:sequence>
-        <xs:element ref="ns1:definition"/>
+        <xs:element ref="definition"/>
         <xs:sequence minOccurs="0">
-          <xs:element ref="ns1:hint"/>
-          <xs:element maxOccurs="unbounded" ref="ns1:speech"/>
+          <xs:element ref="hint"/>
+          <xs:element maxOccurs="unbounded" ref="speech"/>
         </xs:sequence>
       </xs:sequence>
     </xs:complexType>
@@ -39,8 +39,8 @@
   <xs:element name="speech">
     <xs:complexType>
       <xs:sequence>
-        <xs:element ref="ns1:type"/>
-        <xs:element maxOccurs="unbounded" ref="ns1:example"/>
+        <xs:element ref="type"/>
+        <xs:element maxOccurs="unbounded" ref="example"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
@@ -48,9 +48,11 @@
   <xs:element name="example">
     <xs:complexType>
       <xs:sequence>
-        <xs:element ref="ns1:jula"/>
-        <xs:element ref="ns1:french"/>
+        <xs:element ref="source"/>
+        <xs:element ref="target"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
+  <xs:element name="source" type="xs:string"/>
+  <xs:element name="target" type="xs:string"/>
 </xs:schema>
