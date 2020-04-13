@@ -844,4 +844,21 @@
 			</translations>
 		</french>
 	</item>
+	 
+	<item>
+		<jula>bàrakun</jula>
+		<french>
+			<translations>
+				<definition>nombril</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source></source>
+						<target></target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
 </lexique>
