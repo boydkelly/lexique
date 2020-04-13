@@ -1177,4 +1177,44 @@
 			</translations>
 		</french>
 	</item>
+	 
+	<item>
+		<jula>bèn</jula>
+		<french>
+			<translations>
+				<definition>rencontrer, s'entendre, se mettre d'accord, contrer</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>a ni Musa bɛnna.</source>
+						<target>Il a rencontré Moussa. / Il s'est mis d'accord avec Moussa.</target>
+					</example>
+					<example>
+						<source>a bɛnna ni Musa ye.</source>
+						<target>Il a rencontré Moussa. / Il s'est mis d'accord avec Moussa.</target>
+					</example>
+					<example>
+						<source>a ka Musa bɛn.</source>
+						<target>Il a contré Moussa.</target>
+					</example>
+					<example>
+						<source>u tɛ bɛn.</source>
+						<target>Ils ne s'entendent pas / ils ne s'aiment pas.</target>
+					</example>
+				</speech>
+			</translations>
+			<translations>
+				<definition>accuiller</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>a tagala Musa kunbɛn</source>
+						<target>Il est allé acceillir Moussa.</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
 </lexique>
