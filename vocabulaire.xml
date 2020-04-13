@@ -1072,4 +1072,21 @@
 			</translations>
 		</french>
 	</item>
+	 
+	<item>
+		<jula>bènkalikla</jula>
+		<french>
+			<translations>
+				<definition>brigand, pilleur</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>Polisicɛ ka benkalikɛlaw mina.</source>
+						<target>L'agent de la police a arrêté les brigands.</target>	
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
 </lexique>
