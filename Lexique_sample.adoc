@@ -31,7 +31,6 @@ de Linquistique Appliquée d'Abidjan.
 |s.|singlulier
 |====
 
-
 == DIOULA FRANÇAIS ==
 [grid="rows",cols="3,3,^2,^2,8"]
 |===

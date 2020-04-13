@@ -441,7 +441,7 @@
 				<definition>poison</definition>
 				<hint/>
 				<speech>
-					<type>vt</type>
+					<type>n</type>
 					<example>
 						<source>baga be adamaden faga.</source>
 						<target>Le poison tue l'homme.</target>
