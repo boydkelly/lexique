@@ -1123,4 +1123,58 @@
 			</translations>
 		</french>
 	</item>
+	 
+	<item>
+		<jula>bɛ́ɛ</jula>
+		<french>
+			<translations>
+				<definition>tous, tout</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>musow bɛɛ sigila</source>
+						<target>Toutes les femmes se sont assises.</target>
+					</example>
+					<example>
+						<source>den naani be Musa fɛ, u bɛɛ taga lekoli la.</source>
+						<target>Moussa a quatre enfants, ils vont tous à l'école.</target>
+					</example>
+					<example>
+						<source>u fla bɛɛ tagala</source>
+						<target>Ils sont partis tous les deux.</target>
+					</example>
+					<example>
+						<source>lon bɛɛ n be taga yen.</source>
+						<target>J'y vais tous les jours.</target>
+					</example>
+					<example>
+						<source>a ka wari bɛɛ domu.</source>
+						<target>Il a dépensé tout l'argent.</target>
+					</example>
+					<example>
+						<source>a bɛe benna.</source>
+						<target>Tout cela est tombé.</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	 
+	<item>
+		<jula>bɛ́macɛ</jula>
+		<french>
+			<translations>
+				<definition>ancêtre</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source></source>
+						<target></target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
 </lexique>
