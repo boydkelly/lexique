@@ -861,4 +861,54 @@
 			</translations>
 		</french>
 	</item>
+	 [master 497f6d3] Mon 13 Apr 2020 11:48:05 AM GMT
+ 1 file changed, 17 insertions(+)
+	<item>
+		<jula>bàraji</jula>
+		<french>
+			<translations>
+				<definition>récompense divine</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source></source>
+						<target></target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>báramuso</jula>
+		<french>
+			<translations>
+				<definition>femme préferée d'un polygame</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source></source>
+						<target></target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bàri</jula>
+		<french>
+			<translations>
+				<definition>raccommoder</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>n taara n ta kurusi di ka bari.</source>
+						<target>Ju suis allé faire raccommoder mon pantalon.</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
 </lexique>
