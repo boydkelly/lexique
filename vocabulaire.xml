@@ -1089,4 +1089,21 @@
 			</translations>
 		</french>
 	</item>
+	 
+	<item>
+		<jula>bére</jula>
+		<french>
+			<translations>
+				<definition>batôn</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>a ka fatɔcɛ bubɔ ni bere ye.</source>
+						<target>Il a battu le fou avec le bâton.</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
 </lexique>
