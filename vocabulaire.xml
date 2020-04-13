@@ -911,4 +911,165 @@
 			</translations>
 		</french>
 	</item>
+	 
+	<item>
+		<jula>bárika</jula>
+		<french>
+			<translations>
+				<definition>bénédiction, graĉe, force</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>Ala barika la.</source>
+						<target>Grâce à Dieu.</target>
+					</example>
+					<example>
+						<source>barika t'a la.</source>
+						<target>Il n'a pas de force.</target>
+					</example>
+					<example>
+						<source>a barika.</source>
+						<target>Merci.</target>	
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	 
+	<item>
+		<jula>bàro</jula>
+		<french>
+			<translations>
+				<definition>conversation, causerie</definition>
+				<hint></hint>
+				<speech>
+					<type>n</type>
+					<example>
+						<source>a ta baro ka di.</source>
+						<target>Sa conversation est agréable.</target>
+					</example>
+				</speech>
+				<speech>
+					<type>vi</type>
+					<example>
+						<source>an be baro kɛ.</source>
+						<target>Nous causons</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	 
+	<item>
+		<jula>bása</jula>
+		<french>
+			<translations>
+				<definition>margouillat</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source></source>
+						<target></target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	 
+	<item>
+		<jula>bé / bɛ</jula>
+		<french>
+			<translations>
+				<definition>cop.</definition>
+				<hint></hint>
+				<speech>
+					<type>cop.</type>
+					<example>
+						<source>a be bon kɔnɔ</source>
+						<target>Il est dans la maison</target>
+					</example>
+				</speech>
+				<speech>
+					<type>mq. asp.</type>
+					<example>
+						<source>a be taga.</source>
+						<target>Il part / Il partira</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bèlebele</jula>
+		<french>
+			<translations>
+				<definition>gros</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+					<source>a ka muso belebele furu.</source>
+					<target>Il a épousé une grosse femme.></target>						
+					</example>
+					<example>
+						<source>i ka mobili belebele ye wa ?</source>
+						<target>Est-ce que tu as vue une grosse voiture ?</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bèleke</jula>
+		<french>
+			<translations>
+				<definition>cuire à l'eau</definition>
+				<hint>( une tubercule )</hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>ku beleke</source>
+						<target>Igname bouillie.</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bèn</jula>
+		<french>
+			<translations>
+				<definition>tomber</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>n ta wari benna kɔlɔn na.</source>
+						<target>Mon argent est tombé dans le puits.</target>	
+					</example>
+					<example>
+						<source>sanji be ben.</source>
+						<target>La pluie tombe.</target>
+					</example>
+					<example>
+						<source>Musa benna k'a numasen kari</source>
+						<target>Moussa s'est cassé la jambe gauche en tombant.</target>	
+					</example>
+				</speech>
+			</translations>
+			<translations>
+				<definition>faire tomber</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>Isa ka Musa ben.</source>
+						<target>Issa a fait tomber Moussa.</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
 </lexique>
