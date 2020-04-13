@@ -1206,12 +1206,216 @@
 			</translations>
 			<translations>
 				<definition>accuiller</definition>
-				<hint></hint>
+				<hint>( kùnbɛn )</hint>
 				<speech>
 					<type></type>
 					<example>
 						<source>a tagala Musa kunbɛn</source>
 						<target>Il est allé acceillir Moussa.</target>
+					</example>
+					<example>
+						<source>u ka u kumbɛn.</source>
+						<target>Ils les ont accueilles.</target>
+					</example>
+				</speech>
+			</translations>
+			<translations>
+				<definition>se réunir</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>u bɛnna ni ɲɔgɔn ye.</source>
+						<target>Ils se sont réunis.</target>
+					</example>
+				</speech>
+			</translations>
+			<translations>
+				<definition></definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>n'a be ben i ma, taa ji ta ka na di n ma.</source>
+						<target>S'il vous plaît, allez me chercher de l'eau.</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	 
+	<item>
+		<jula>bí</jula>
+		<french>
+			<translations>
+				<definition>dizaine</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>bi saba</source>
+						<target>trente</target>
+					</example>
+					<example>
+						<source>bi naani</source>
+						<target>quarante</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	 
+	<item>
+		<jula>bì</jula>
+		<french>
+			<translations>
+				<definition>aujourd'hui</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>bi (bi sɔgɔma, bi wula fɛ) ne be taa Bobo</source>
+						<target>Aujourd'hui (Ce matin, Cet après-midi) je vais à Bobo.</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	 
+	<item>
+		<jula>bìɛn / byɛ́n / bìyɛ</jula>
+		<french>
+			<translations>
+				<definition>flèche, pointe</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source></source>
+						<target></target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	 
+	<item>
+		<jula>biŋ</jula>
+		<french>
+			<translations>
+				<definition>herbe</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>a k'i la biŋ na.</source>
+						<target></target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	 
+	<item>
+		<jula>birifani</jula>
+		<french>
+			<translations>
+				<definition>couverture</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source></source>
+						<target></target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	 
+	<item>
+		<jula>bísi</jula>
+		<french>
+			<translations>
+				<definition>bus</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source></source>
+						<target></target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	 
+	<item>
+		<jula>bìsimila</jula>
+		<french>
+			<translations>
+				<definition>bienvenu</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>karamɔgɔcɛ nana. aiwa i bisimila.</source>
+						<target>Le marabout est venu, eh bien mettez-vous à l'aise.</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	 
+	<item>
+		<jula>blà</jula>
+		<french>
+			<translations>
+				<definition>poser, mettre, déposer</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>a ka dɛbɛ bla dugu ma.</source>
+						<target>Il a posé la natte par terre.</target>
+					</example>
+					<example>
+						<source>min blala dugu ma, aw ma a jate wa ?</source>
+						<target>Ce qui a été posé par terr, vous n'lavez pas compté ?</target>
+					</example>
+					<example>
+						<source>n b'i bla mobili la i ta so.</source>
+						<target>Je vous déposerai chez vous en voiture.</target>
+					</example>
+				</speech>
+			</translations>
+			<translations>
+				<definition>ajouter</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>mangoro fla bla a kan !</source>
+						<target>Ajoute deux mangues !</target>
+					</example>
+					<example>
+						<source>a ka kelen bla fla kan, a kɛla saba.</source>
+						<target>Deux plus un égale trois.</target>
+					</example>
+				</speech>
+			</translations>
+			<translations>
+				<definition>abandonner, laisser</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>a k'a muso bla.</source>
+						<target>Il a abandonné sa femme.</target>
+					</example>
+					<example>
+						<source>kuma nin bla!</source>
+						<target>Arrête de parler de ça!</target>
 					</example>
 				</speech>
 			</translations>
