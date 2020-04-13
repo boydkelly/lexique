@@ -450,4 +450,398 @@
 			</translations>
 		</french>
 	</item>
+	<item>
+		<jula>bágan</jula>
+		<french>
+			<translations>
+				<definition>animal</definition>
+				<hint></hint>
+				<speech>
+					<type>n</type>
+					<example>
+						<source>so ye gagan ye.</source>
+						<target>Le cheval est un animal.</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bála</jula>
+		<french>
+			<translations>
+				<definition>balafon</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>balafɔla</source>
+						<target>joueur de balafon</target>	
+					</example>
+					<example>
+						<source>balafɔla ye sugu fal ye. balabafɔla ani baladenninfɔla.</source>
+						<target>Il y a deux sortes de joueurs de balafon, celui qui joue le grand balafon, et celui qui joue le plus petit.</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bàla</jula>
+		<french>
+			<translations>
+				<definition>empêcher</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>mun k'i bali ka na ?</source>
+						<target>Qu'est-ce qui t'a empêché de venir ?</target>
+					</example>
+					<example>
+						<source>domunkɛbaliya ni sunɔgɔbaliya, o ma ɲi</source>
+						<target>N'avoir pas mangé et n'avoir pas dormi ne sont pas bon.</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bálibali</jula>
+		<french>
+			<translations>
+				<definition>excessivement</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>go gbanna balibali</source>
+						<target>Le to ext excessivement chaud.</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>balima / bálema /bádema /bádima</jula>
+		<french>
+			<translations>
+				<definition>parent, allié</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>a balimaw lo ka furu siri.</source>
+						<target>Ce sont ses parents qui ont arrangé le mariage.</target>
+					</example>
+					<example>
+						<source>anw be balima ye.</source>
+						<target>Nous sommes parents.</target>
+					</example>
+					<example>
+						<source>Fanta balimaw nan ka caya a furuko kosɔn.</source>
+						<target>Les parents de Fanta sont venus nombreux pour son mariage.</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bàlo</jula>
+		<french>
+			<translations>
+				<definition>nourrir</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>a be mɔgɔ tan balo.</source>
+						<target>Elle nourrit dix personnes.</target>
+					</example>
+				</speech>
+			</translations>
+			<translations>
+				<definition>nourriture</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>n be balo feere.</source>
+						<target>Je vends de la nourriture.</target>
+					</example>
+				</speech>
+			</translations>
+			<translations>
+				<definition>vivre, survivre</definition>
+				<hint></hint>
+				<speech>
+					<type>vt</type>
+					<example>
+						<source>ala ka den balo !</source>
+						<target>Que Dieux prête vie à cet enfant !</target>
+					</example>
+					<type>vi</type>
+						<example>
+							<source>mɔgɔ caman sala Musa kɔni balola.</source>
+							<target>Beaucoup de gens sont morts, mais Moussa, lui, a survécu</target>
+						</example>
+						<example>
+							<source>a be balo la.</source>
+							<target>Il est en vie.</target>
+						</example>
+				</speech>
+			</translations>
+		</french>
+	</item>	
+	<item>
+		<jula>bámuso</jula>
+		<french>
+			<translations>
+				<definition>mère</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source></source>
+						<target></target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bán</jula>
+		<french>
+			<translations>
+				<definition>terminer, finir</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>baara banna</source>
+						<target>Le travail est terminé.</target>
+					</example>
+					<example>
+						<source>a ka domuni kɛ ka ban.</source>
+						<target>Il a fini de manger.</target>
+					</example>
+					<example>
+						<source>a bana domuni na.</source>
+						<target>Il a fini de manger.</target>
+					</example>
+				</speech>
+			</translations>
+			<translations>
+				<definition>mourir s'éteindre</definition>
+				<hint></hint>
+				<speech>
+					<type>vi</type>
+					<example>
+						<source>a bamuso banna, a mɛɛna dɛ.</source>
+						<target></target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bán / bá</jula>
+		<french>
+			<translations>
+				<definition>encore</definition>
+				<hint></hint>
+				<speech>
+					<type>adv</type>
+					<example>
+						<source>a ma na ban.</source>
+						<target>Elle n'est pas encore venue.</target>	
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bàn</jula>
+		<french>
+			<translations>
+				<definition>refuser</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>a banna ka taa.</source>
+						<target>Il a refusé d'aller.</target>	
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bàna</jula>
+		<french>
+			<translations>
+				<definition>maladie</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>bana b'a la</source>
+						<target>Il est malade.</target> 
+					</example>
+					<example>
+						<source>a ka bana sɔrɔ / bana k'a minɛ</source>
+						<target>Il a attrapé une maladie.</target> 
+					</example>
+					<example>
+						<source>a banana.</source>
+						<target>Il est tombé malade.</target>	
+					</example>
+					<example>
+						<source>banabaatɔ lo.</source>
+						<target>C'est un malade.</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bànanku</jula>
+		<french>
+			<translations>
+				<definition>manioc</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source></source>
+						<target></target>	
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bànbagatɔ</jula>
+		<french>
+			<translations>
+				<definition>défunt</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source></source>
+						<target></target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bànge</jula>
+		<french>
+			<translations>
+				<definition>paraître, apparaître, être apparent, parler à voix audible</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>balo bɔra ka bange.</source>
+						<target>La lune est apparue clairement.</target>	
+					</example>
+					<example>
+						<source>sele la i ba kalan ka bange</source>
+						<target>En priant, tu lis à voix audible</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bànge</jula>
+		<french>
+			<translations>
+				<definition>accoucher, engendrer, être né</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>a ka denmuso bange.</source>
+						<target>Elle a accouché d'une fille.</target>
+					</example>
+					<example>
+						<source>denbange = bangeli</source>
+						<target>accouchement</target>  	
+					</example>
+					<example>
+						<source>n bangela 2004</source>
+						<target>Je suis né en 2004</target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bánni</jula>
+		<french>
+			<translations>
+				<definition>décès</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source></source>
+						<target></target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>báo</jula>
+		<french>
+			<translations>
+				<definition>parce que</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>a ma se ka na, bao a ma mobili sara sɔrɔ.</source>
+						<target>Il n'a pu venir, parce qu'il na pa eu le frais de transport.</target>	
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bàra</jula>
+		<french>
+			<translations>
+				<definition>gourde, casse</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source></source>
+						<target></target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
+	<item>
+		<jula>bàrajùru</jula>
+		<french>
+			<translations>
+				<definition>cordon ombilical</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source>den barajuru be ben a wolonin tle wolonflanan.</source>
+						<target>Le cordon ombilical de l'enfant tombe à sa naissance le septième jour</target>	
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
 </lexique>
