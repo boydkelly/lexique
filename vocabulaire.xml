@@ -1106,4 +1106,21 @@
 			</translations>
 		</french>
 	</item>
+	 
+	<item>
+		<jula>bèse</jula>
+		<french>
+			<translations>
+				<definition>machette</definition>
+				<hint></hint>
+				<speech>
+					<type></type>
+					<example>
+						<source></source>
+						<target></target>
+					</example>
+				</speech>
+			</translations>
+		</french>
+	</item>
 </lexique>
