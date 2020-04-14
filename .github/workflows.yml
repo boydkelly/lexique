@@ -1,0 +1,2 @@
+- name: XML Lint
+  uses: ChristophWurst/xmllint-action@v1
