@@ -229,8 +229,8 @@
 				<speech>
 					<type/>
 					<example>
-						<source>${jula}</source>
-						<target>${french}</target>
+						<source></source>
+						<target></target>
 					</example>
 				</speech>
 			</translations>
