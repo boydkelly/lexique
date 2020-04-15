@@ -1,0 +1,6 @@
+name: lexiquejula 
+title: Lexique Jula 
+version: 0.1.0
+start_page: ROOT:lexiquejula.adoc
+nav:
+ - modules/ROOT/nav.adoc 

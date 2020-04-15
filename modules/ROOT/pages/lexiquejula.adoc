@@ -1,0 +1,124 @@
+:Author: COULIBALY Moussa, HARAGUCHI Takehiko
+:Date: 1993
+:toc:
+
+= LEXIQUE DU DIOULA
+
+[float]
+= Institute of Developing Economies
+{author}
+
+== PRÉFACE ==
+Ce lexique est inspiré du Petit Dictionnaire Dioula que C. Braconnier
+et M.J. Derive ont publié en 1978.footnote:[C. Braconnier et M. J.
+Derive. _Petit Dictionnaire Dioula._ Institut de Linguistique
+Appliquée, Abidjan. 1978.]  Comme le dictionnaire
+précédent, il voudrait être simplement un outil commode pour les
+personnes qui souhaitent pouvoir parler dioula en Côte d'Ivoire. Il
+peut être utilisé comme complément à la méthode "kó di? de l'Institut
+de Linquistique Appliquée d'Abidjan.
+
+== Remarques ==
+* Parcomodité nous avons adopté la même terminologie grammaticale que
+  celle employée dans "kó di ?".
+* Les guillemets signalent une traduction très approximative. 
+
+.Abreviations
+[width="50%",cols="^m,^m",frame="topbot"]
+|====
+|pr.|pronom
+|pr. réfl.| pronom réfléchi
+|s.|singlulier
+|====
+
+== DIOULA FRANÇAIS ==
+[grid="rows",cols="3,3,^2,^2,8"]
+|===
+|jula|français|speech|hint|examples
+|abada|jamais||
+a|a tɛ ko nyuman kɛ abada ::
+il ne fait jamais quelque chose de bien.
+
+|adamaden|"être humain"||( il n'est que corps et âme )."
+a|adamaden kɔni tɛ foyi ye. ::
+L'homme n'est rien 
+
+|ala|Dieu||
+a|"ala ye kelen ye." :: 
+"Dieu est unique."
+
+|alamani|amende|||
+
+|alamisa|jeudi|||
+
+|an|nous|pr. 1er pl.|
+a|"an facɛ lo." ::
+Cest notre père
+kana an bugɔ ::
+Ne nous frappe pas.
+
+|ani|et||
+a|"a ka jɛgɛ ani foronto san." ::
+il a acheté du poisson et du piment.
+a k'a fɔ Musa ani Bakari ye. ::
+Il l'a dit à Moussa et à Bakari.
+
+|araba|mercredi|||
+|samedilɔn|samedi|||
+
+|awa|alors eh bien bon||( forme contractée de ayiwa )
+a|awa, gbaga ni kafe tɛ kele ye. ::
+Eh bin, la bouillie et le café ne son pas la même chose.
+
+|ayiwa|eh bien, euh, bon||
+a|farigban k'a minɛ, ayiwa, kunasini sɔgɔma. ::
+Il a commencé à avoir de la fiɛvre, ehu, avant-hier matin.
+
+ayiwa n be taga. :: 
+Bon, je m'en vais.
+
+ayiwa, a be mun lo kɛla ? ::
+Eh bien, qu'est-ce qu'il fait ?
+
+|bá|fleuve|||
+
+|bà|chèbre, caprin|||
+
+|báana|personne riche|||
+
+|báana|doigt du milieu|||
+
+|bàanabaana|petit commerçant ambulant|||
+
+|báara|travail|n|
+a|
+i ta baara ka ɲi i ma wa ? ::
+Est-ce que ton travail te satisfait ?
+i ni baara ! ::
+Bonjour, Bon travail !
+
+||travailler|vi|
+a|i be baara kɛ :: 
+Il travaille
+
+i be baara la :: 
+Il est au travail
+
+|||vt|
+a|a be nɛgɛ baara ::
+il travaille le fer
+
+|baaranyini|portefaix, manoeuvre|||
+
+|baarakɛla|travailleur|||
+
+|báasi|ennuis, chose grave||
+a|ji ma glasi kosobɛ. basi tɛ dɔ di n ma. ::
+L'eau n'est pas très fraiche. Ça ne fait rien, donne-m'en ?.
+
+sabali ! baasi tɛ !::
+Pardon! De rien !
+taji banna. o kɛra baasi ye. ::
+L'essemce est fini. C'est grave.
+
+|===
