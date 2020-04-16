@@ -1,8 +1,9 @@
 :Author: COULIBALY Moussa, HARAGUCHI Takehiko
 :Date: 1993
 :toc:
-
+:lang: fr
 = LEXIQUE DU DIOULA
+include:locale::attributes.adoc[fr]
 
 [float]
 = Institute of Developing Economies
