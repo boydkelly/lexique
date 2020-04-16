@@ -1,0 +1,11 @@
+[default]
+name=Default
+runtime=podman:fd8b94cfd3c2
+toolchain=default
+config-opts=
+run-opts=
+prefix=/var/home/bkelly/.var/app/org.gnome.Builder/cache/gnome-builder/install/lexique/podman:fd8b94cfd3c2
+app-id=
+postbuild=
+prebuild=
+default=true
