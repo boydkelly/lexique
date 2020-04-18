@@ -1,0 +1,5 @@
+staging:
+  variables:
+    ENVIRONMENT: staging
+  stage: deploy
+  trigger: boydkelly/jula-build
